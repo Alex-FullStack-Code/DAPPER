@@ -1,0 +1,25 @@
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.deps.json
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.pdb
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Core.pdb
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csprojAssemblyReference.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.AssemblyInfoInputs.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.AssemblyInfo.cs
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.CoreCompileInputs.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.CopyComplete
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.pdb
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.deps.json
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.pdb
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Core.pdb
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.AssemblyReference.cache
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.AssemblyInfoInputs.cache
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.AssemblyInfo.cs
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.CoreCompileInputs.cache
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.CopyComplete
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Users\sekne\Desktop\DAPPER\2. Dapper WEB API 3.1 UnitOfWork use Repository Pattern  няма Save Changes-iammukeshm\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.pdb

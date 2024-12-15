@@ -1,0 +1,72 @@
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\appsettings.json
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\TestDapper.exe
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\TestDapper.deps.json
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\TestDapper.runtimeconfig.json
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\TestDapper.runtimeconfig.dev.json
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\TestDapper.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\ref\TestDapper.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\TestDapper.pdb
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\Dapper.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sekul\source\repos\TestDapper\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.AssemblyInfoInputs.cache
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.AssemblyInfo.cs
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.csproj.CoreCompileInputs.cache
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\staticwebassets\TestDapper.StaticWebAssets.Manifest.cache
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\staticwebassets\TestDapper.StaticWebAssets.xml
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\scopedcss\bundle\TestDapper.styles.css
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.RazorTargetAssemblyInfo.cache
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.csproj.CopyComplete
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.dll
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\ref\TestDapper.dll
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.pdb
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.genruntimeconfig.cache
+C:\Users\sekul\source\repos\TestDapper\obj\Debug\net5.0\TestDapper.csprojAssemblyReference.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\appsettings.json
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\TestDapper.exe
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\TestDapper.deps.json
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\TestDapper.runtimeconfig.json
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\TestDapper.runtimeconfig.dev.json
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\TestDapper.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\ref\TestDapper.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\TestDapper.pdb
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\Dapper.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.csprojAssemblyReference.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.AssemblyInfoInputs.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.AssemblyInfo.cs
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.csproj.CoreCompileInputs.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\staticwebassets\TestDapper.StaticWebAssets.Manifest.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\staticwebassets\TestDapper.StaticWebAssets.xml
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\scopedcss\bundle\TestDapper.styles.css
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.RazorTargetAssemblyInfo.cache
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.csproj.CopyComplete
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\ref\TestDapper.dll
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.pdb
+C:\Users\sekul\OneDrive\Desktop\ASP.NET\3. Dapper\TestDapper\obj\Debug\net5.0\TestDapper.genruntimeconfig.cache

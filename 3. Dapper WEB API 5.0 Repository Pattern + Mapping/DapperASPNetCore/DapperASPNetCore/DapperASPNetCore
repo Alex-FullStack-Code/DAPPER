@@ -1,0 +1,26 @@
+Using Dapper with ASP.NET Core Web API
+Aug 23, 2021
+
+https://code-maze.com/using-dapper-with-asp-net-core-web-api/
+
+STEPS
+ 
+Create DB from sql script
+
+Create a new Web API project:
+
+Dapper – PM> 
+Install-Package Dapper -Version 2.0.90
+
+SQL Client – PM> 
+Install-Package Microsoft.Data.SqlClient -Version 2.1.2
+
+
+
+
+
+
+
+
+
+
